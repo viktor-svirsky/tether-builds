@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.89",
+          "buildVersion": "89",
+          "date": "2026-10-18T16:07:54+00:00",
+          "localizedDescription": "Devices first on the main screen, one device sheet for names and speed limits, clearer usage, and fixes from a full review.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.89/Tether.ipa",
+          "size": 1106015,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.81",
           "buildVersion": "81",
           "date": "2026-10-18T14:47:25+00:00",
@@ -54,7 +63,7 @@
             "height": 2556
           },
           {
-            "imageURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/screenshots/2-traffic.png",
+            "imageURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/screenshots/2-usage.png",
             "width": 1178,
             "height": 2556
           },
