@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.81",
+          "buildVersion": "81",
+          "date": "2026-10-18T14:47:25+00:00",
+          "localizedDescription": "Per-device speed limits, a setup guide, a new look, and updates that AltStore can see.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.81/Tether.ipa",
+          "size": 1093780,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0",
           "buildVersion": "61",
           "date": "2026-10-18T03:33:28+00:00",
@@ -61,6 +70,11 @@
           },
           {
             "imageURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/screenshots/5-setup.png",
+            "width": 1178,
+            "height": 2556
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/screenshots/6-device.png",
             "width": 1178,
             "height": 2556
           }
