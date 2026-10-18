@@ -12,6 +12,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "61",
+          "date": "2026-10-18T03:33:28+00:00",
+          "localizedDescription": "Setup guide with numbered steps for iPad and Mac. Name your devices from the main screen. A cleaner main screen: no big title, a link icon with a live status dot, and the hotspot line opens Settings. Copy gives a light tap.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0-61/Tether.ipa",
+          "size": 1065163,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "40",
           "date": "2026-10-18T02:01:15+00:00",
           "localizedDescription": "First AltStore build: usage card, traffic history with filters, device names, diagnostics.",
