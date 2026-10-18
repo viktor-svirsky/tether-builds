@@ -1,0 +1,32 @@
+{
+  "name": "Tether",
+  "identifier": "com.vsvirskyi.tether.source",
+  "sourceURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/source.json",
+  "apps": [
+    {
+      "name": "Tether",
+      "bundleIdentifier": "com.vsvirskyi.phoneshare",
+      "developerName": "Viktor Svirskyi",
+      "localizedDescription": "Shares the iPhone's internet with your iPad and Mac over Personal Hotspot.",
+      "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "40",
+          "date": "2026-10-18T01:27:16+00:00",
+          "localizedDescription": "First AltStore build: usage card, traffic history with filters, device names, diagnostics.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0-40/Tether.ipa",
+          "size": 1006525,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Tether accepts connections from your iPad on the hotspot network."
+        }
+      }
+    }
+  ],
+  "news": []
+}
