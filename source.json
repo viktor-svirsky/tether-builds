@@ -13,10 +13,10 @@
         {
           "version": "1.0",
           "buildVersion": "40",
-          "date": "2026-10-18T01:37:14+00:00",
+          "date": "2026-10-18T02:01:15+00:00",
           "localizedDescription": "First AltStore build: usage card, traffic history with filters, device names, diagnostics.",
           "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0-40/Tether.ipa",
-          "size": 1006566,
+          "size": 1006560,
           "minOSVersion": "17.0"
         }
       ],
