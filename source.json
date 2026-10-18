@@ -25,8 +25,40 @@
         "privacy": {
           "NSLocalNetworkUsageDescription": "Tether accepts connections from your iPad on the hotspot network."
         }
+      },
+      "subtitle": "Your iPhone's internet on your iPad and Mac, calls and games included.",
+      "tintColor": "0073C7",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/screenshots/1-main.png",
+            "width": 1178,
+            "height": 2556
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/screenshots/2-traffic.png",
+            "width": 1178,
+            "height": 2556
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/screenshots/3-history-day.png",
+            "width": 1178,
+            "height": 2556
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/screenshots/4-history-month.png",
+            "width": 1178,
+            "height": 2556
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/screenshots/5-setup.png",
+            "width": 1178,
+            "height": 2556
+          }
+        ]
       }
     }
   ],
-  "news": []
+  "news": [],
+  "tintColor": "0073C7"
 }
