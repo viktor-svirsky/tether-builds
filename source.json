@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.137",
+          "buildVersion": "137",
+          "date": "2026-10-19T14:40:26+00:00",
+          "localizedDescription": "Warns three days before the app stops opening. The device screen now explains WireGuard On-Demand.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.137/Tether.ipa",
+          "size": 3783332,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.132",
           "buildVersion": "132",
           "date": "2026-10-19T12:27:24+00:00",
