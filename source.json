@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.139",
+          "buildVersion": "139",
+          "date": "2026-10-19T15:48:44+00:00",
+          "localizedDescription": "Something not working? now says when a VPN is on on this iPhone, and what to check.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.139/Tether.ipa",
+          "size": 3785888,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.137",
           "buildVersion": "137",
           "date": "2026-10-19T14:40:26+00:00",
