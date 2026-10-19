@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.115",
+          "buildVersion": "115",
+          "date": "2026-10-19T01:09:51+00:00",
+          "localizedDescription": "Calls and games over WireGuard can connect directly (full-cone UDP). A speed limit now covers WireGuard and the proxy together.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.115/Tether.ipa",
+          "size": 3762822,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.105",
           "buildVersion": "105",
           "date": "2026-10-19T00:08:25+00:00",
