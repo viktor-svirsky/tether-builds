@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.126",
+          "buildVersion": "126",
+          "date": "2026-10-19T05:06:50+00:00",
+          "localizedDescription": "Fixes two crashes a hotspot device could cause. The traffic history chart works with VoiceOver.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.126/Tether.ipa",
+          "size": 3774714,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.117",
           "buildVersion": "117",
           "date": "2026-10-19T01:37:39+00:00",
