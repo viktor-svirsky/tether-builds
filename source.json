@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.105",
+          "buildVersion": "105",
+          "date": "2026-10-19T00:08:25+00:00",
+          "localizedDescription": "WireGuard: connect an iPad or Mac with the free WireGuard app and a QR code. Calls and games work, nothing to set up on other Wi-Fi.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.105/Tether.ipa",
+          "size": 3763447,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.94",
           "buildVersion": "94",
           "date": "2026-10-18T21:24:30+00:00",
