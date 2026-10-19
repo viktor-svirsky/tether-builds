@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.153",
+          "buildVersion": "153",
+          "date": "2026-10-19T23:42:03+00:00",
+          "localizedDescription": "New: Home Screen and Lock Screen widget, and a Live Activity with the speed and a Pause button while the hotspot is on. A Tether control for Control Center on iOS 18. An iPad idling on WireGuard now counts as connected.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.153/Tether.ipa",
+          "size": 3949669,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.139",
           "buildVersion": "139",
           "date": "2026-10-19T15:48:44+00:00",
@@ -129,7 +138,9 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSLocalNetworkUsageDescription": "Tether accepts connections from your iPad on the hotspot network."
         }
