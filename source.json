@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.132",
+          "buildVersion": "132",
+          "date": "2026-10-19T12:27:24+00:00",
+          "localizedDescription": "Speed limits now start at 1 Mbit/s, and a custom limit is typed in Mbit/s.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.132/Tether.ipa",
+          "size": 3774986,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.126",
           "buildVersion": "126",
           "date": "2026-10-19T05:06:50+00:00",
