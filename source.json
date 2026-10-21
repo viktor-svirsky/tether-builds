@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.163",
+          "buildVersion": "163",
+          "date": "2026-10-21T15:12:19+00:00",
+          "localizedDescription": "Travel routers: a WireGuard device can be a travel router, so the devices on its Wi-Fi get through.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.163/Tether.ipa",
+          "size": 3922980,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.158",
           "buildVersion": "158",
           "date": "2026-10-20T18:20:41+00:00",
