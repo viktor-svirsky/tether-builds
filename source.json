@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.181",
+          "buildVersion": "181",
+          "date": "2026-10-22T14:20:55+00:00",
+          "localizedDescription": "Saves battery: with Personal Hotspot off for 10 minutes, Tether lets iOS suspend it. Open Tether before turning the hotspot back on. Also a clearer Mac button.",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.181/Tether.ipa",
+          "size": 3934113,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.176",
           "buildVersion": "176",
           "date": "2026-10-21T18:28:41+00:00",
