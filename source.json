@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/viktor-svirsky/tether-builds/main/icon.png",
       "versions": [
         {
+          "version": "1.0.185",
+          "buildVersion": "185",
+          "date": "2026-10-24T14:15:49+00:00",
+          "localizedDescription": "Test build: simpler main screen (sharing switch in the status card, calls check and Advanced in Help) and faster WireGuard (MTU 1420, deeper queue)",
+          "downloadURL": "https://github.com/viktor-svirsky/tether-builds/releases/download/v1.0.185/Tether.ipa",
+          "size": 3933202,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.181",
           "buildVersion": "181",
           "date": "2026-10-22T14:20:55+00:00",
